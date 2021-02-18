@@ -1,1 +1,1 @@
-prompt ("Voer hier uw naam in om op de bezoekerslijst te komen");
+prompt ("Voer hier uw naam in om op de bezoekerslijst te komen! :)");
